@@ -1,0 +1,28 @@
+Daily->
+Task-12-> 3months
+72hours/3days
+
+
+Notes->
+Manual testing
+Java-J2SE->
+Core Java->
+Codekata-3
+ 200-250min.
+Automation->
+Selenium WEB AUTOmation
+TDD
+BDD
+Complete project with Selenium E2E
+
+Session->
+3hours- session
+2hours content->
+1hr->
+Session practice->
+15-20min
+Quiz Exercise->
+10-15min
+20-30min
+10-15min->
+
